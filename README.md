@@ -31,7 +31,12 @@ CruxDesk sells software that runs a climbing gym: memberships, point of sale, cl
 **Why it matters:** Routing that works on paper can fail on real channels. Testing with real ticket types found it before customers would have.
 
 ![Route technical trigger before](041n.png)
+
+*Before: the trigger only checked tickets at creation ("Ticket is Created"), when email tickets still had empty fields.*
+
 ![Route technical trigger after](041o.png)
+
+*After: the trigger checks any ticket sitting in Tier 1 ("Group is Tier 1"), so it routes as soon as an agent finishes triage.*
 
 ## Highlight 2: Handling a Payment Outage
 
@@ -44,7 +49,12 @@ A payment processor outage caused failed charges for multiple gyms at once. Inst
 5. Worked a follow up ticket afterward for a customer cleaning up affected transactions
 
 ![Problem ticket with four linked incidents](072.png)
+
+*Problem #12 with its four linked Incidents, all routed to Escalations/Technical.*
+
 ![All four customers notified at once](075.png)
+
+*All four customers received the resolution update in the same minute.*
 
 ## Highlight 3: AI Triage vs Human Triage
 
@@ -71,9 +81,13 @@ Every ticket has internal notes in the same pattern: **Triage, Handoff, Resoluti
 
 ![Help center homepage](126.png)
 
+*Four sections, a promoted plans comparison article, and the outage announcement in recent activity.*
+
 ## Solved Queue
 
 ![Recently solved tickets](125.png)
+
+*All 23 customer tickets solved, with priorities ranging from Low to Urgent.*
 
 ## Built With
 
