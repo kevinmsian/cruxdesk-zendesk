@@ -51,7 +51,7 @@ A payment processor outage caused failed charges for multiple gyms at once. Inst
 Zendesk AI suggested an intent for each ticket. Several times the suggestion pointed at the symptom, not the cause:
 
 * A ticket the AI labeled as a login problem was really a seat limit. I found a fix within the customer's current plan before suggesting an upgrade.
-* A ticket the AI labeled as phishing was [REAL ISSUE].
+* A ticket the AI labeled as phishing was really a confirmed account breach. I marked it Urgent and walked the gym through forcing a password reset for all staff and turning on two factor authentication.
 * A Klaviyo question the AI labeled as "Software usage instructions" was really a request for an integration CruxDesk doesn't support. I offered the Mailchimp integration as an alternative and logged it as the third Klaviyo request this quarter.
 
 The AI was useful elsewhere: minutes after I published the outage article, it drafted a suggested reply based on that article.
