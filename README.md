@@ -2,11 +2,11 @@
 
 A Zendesk support environment for a fictional B2B SaaS company that sells gym management software to climbing gyms. Scenarios are based on my experience working in a climbing gym.
 
-I created the company, configured routing, SLAs, macros, automations and a help center, then built 23 customer tickets in Zendesk and worked each one the way a support agent would: triage, reply, hand off, resolve.
+I created the company, configured routing, SLAs, macros, automations and a help center, then built 22 customer tickets in Zendesk and worked each one the way a support agent would: triage, reply, hand off, resolve.
 
 ## At a Glance
 
-* 24 tickets worked and solved: 23 customer tickets plus 1 Problem ticket with 4 of those customer tickets linked as Incidents
+* 24 tickets worked and solved: 22 customer tickets plus 1 Problem ticket with 4 of those customer tickets linked as Incidents
 * 11 macros, 7 triggers, 2 automations
 * 3 SLA policies by plan tier, measured in business hours
 * 4 groups: Tier 1, Billing, Onboarding and Training, Escalations/Technical
@@ -87,7 +87,7 @@ Every ticket has internal notes in the same pattern: **Triage, Handoff, Resoluti
 
 ![Recently solved tickets](125.png)
 
-*All 24 tickets solved: 23 customer tickets plus the Problem ticket.*
+*All 23 tickets solved: 22 customer tickets plus the Problem ticket.*
 
 ## Built With
 
