@@ -6,7 +6,7 @@ I created the company, configured routing, SLAs, macros, automations and a help 
 
 ## At a Glance
 
-* 24 tickets worked and solved: 22 customer tickets plus 1 Problem ticket with 4 of those customer tickets linked as Incidents
+* 23 tickets worked and solved: 22 customer tickets plus 1 Problem ticket with 4 of those customer tickets linked as Incidents
 * 11 macros, 7 triggers, 2 automations
 * 3 SLA policies by plan tier, measured in business hours
 * 4 groups: Tier 1, Billing, Onboarding and Training, Escalations/Technical
