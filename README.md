@@ -2,7 +2,7 @@
 
 A Zendesk support environment for a fictional B2B SaaS company that sells gym management software to climbing gyms. Scenarios are based on my experience working in a climbing gym.
 
-I created the company, wrote 31 ticket scenarios, configured routing, SLAs, macros, automations and a help center, then built 23 customer tickets in Zendesk and worked each one the way a support agent would: triage, reply, hand off, resolve.
+I created the company, configured routing, SLAs, macros, automations and a help center, then built 23 customer tickets in Zendesk and worked each one the way a support agent would: triage, reply, hand off, resolve.
 
 ## At a Glance
 
